@@ -1,0 +1,36 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.jlpt {
+  padding: 5px;
+  // border-radius: 4px;
+  // border: 1px solid red;
+  // margin: 5px;
+}
+
+.jlpt__n5 {
+  background-color: red;
+  color: #FFF;
+}
+
+.jlpt__n4 {
+  background-color: yellow;
+  color: #000;
+}
+
+.jlpt__n3 {
+  background-color: cyan;
+  color: #000;
+}
+
+.jlpt__n2 {
+  background-color: violet;
+  color: #000;
+}
+
+.jlpt__n1 {
+  background-color: blue;
+  color: #FFF;
+}
